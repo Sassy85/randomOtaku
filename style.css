@@ -1,3 +1,15 @@
 body {
-    background-color: purple;
+    background-image: url('images/Galaxy 5.jpg');
+    background-size: cover;
+}
+h1 {
+    color: #FB95F8;
+    text-align: center;
+    font-size: 100px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h2 {
+    color: #51F607;
+    text-align: center;
+    
 }
